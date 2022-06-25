@@ -33,3 +33,18 @@ Se cumple una de dos condiciones a la vez (una true y otra false)
 
 Nota: puedes escribir estos datos por consola si prefieres verlos. La idea del ejercicio es almacenar los datos en los tipos más adecuados.
 
+### Video 3
+#### Ejercicio 1
+Crea una estructura de datos para un cliente con estos campos:
+
+Nombre completo
+
+Teléfono
+
+Dirección
+
+Email
+
+Si es nuevo cliente
+
+Bonus: escribe un método para presentar estos datos desde la estructura al hacer Console.WriteLine(...)
